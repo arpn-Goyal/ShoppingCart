@@ -1,4 +1,4 @@
-export default data = [
+const data = [
   {
     "itemId": 1,
     "name": "Wireless Headphones",
@@ -175,3 +175,5 @@ export default data = [
     "image": "https://res.cloudinary.com/demo/image/upload/w_400,h_400,c_fill/cookware-set.jpg"
   }
 ]
+
+export default data;
